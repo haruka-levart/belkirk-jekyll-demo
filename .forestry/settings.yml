@@ -5,11 +5,12 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
-  label: Content
+  label: Content asdf
 - type: jekyll-posts
   label: Posts
   create: all
   templates:
+  - posts
   - post
 - type: jekyll-pages
   label: Pages
