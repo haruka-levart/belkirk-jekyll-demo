@@ -8,9 +8,8 @@ sections:
   label: Content asdf
 - type: jekyll-posts
   label: Posts
-  create: all
+  create: documents
   templates:
-  - posts
   - post
 - type: jekyll-pages
   label: Pages
